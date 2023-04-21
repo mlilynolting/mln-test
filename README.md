@@ -1,2 +1,4 @@
 # mln-test
-what strange beast
+what strange beast~
+
+an empty repo for trash.
